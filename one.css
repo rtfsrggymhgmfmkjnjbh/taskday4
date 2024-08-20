@@ -1,0 +1,60 @@
+body {
+    background-image: url("./dhoni.jpg");
+    background-size: cover;
+  }
+  .anchor1 {
+    background-color: darkcyan;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    margin-left: 50px;
+  }
+  .image1 {
+    padding-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    float: left;
+    margin-right: 50%;
+  }
+  .image2 {
+    padding-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    float: left;
+    margin-right: 50%;
+  }
+  .nav2 {
+    background-color: chocolate;
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    margin-top: 30%;
+    clear: both;
+  }
+  .nav1 {
+    background-color: darkcyan;
+    padding-bottom: 50px;
+    padding-top: 30px;
+  }
+  .p-clear1 {
+    background-color: indianred;
+    width: 30%;
+    float: left;
+    padding: 5px;
+    margin-left: 10%;
+    margin-top: 5%;
+  }
+  .p-clear2 {
+    background-color: lightgreen;
+    width: 45%;
+    float: right;
+    padding: 5px;
+    margin-right: 10%;
+    margin-top: 5%;
+  }
+  .anchor2 {
+    padding-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+  }
